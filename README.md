@@ -41,7 +41,7 @@ Please read our contributing guidelines for more information on how to get start
 
 ## Security
 
-🛡️ Please report any security vulnerabilities or concerns to us by emailing security@yourcompany.com.
+🛡️ Please report any security vulnerabilities or concerns to us by emailing aboubacarabdouabarchidev@gmail.com.
 
 ## License
 
